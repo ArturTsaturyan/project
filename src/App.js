@@ -1,5 +1,4 @@
 import React from 'react'
-import { ReactReduxContext } from 'react-redux'
 import {BrowserRouter as Router,Route,Link,Switch} from 'react-router-dom'
 
 import Home from './HomePage/HomePage'
