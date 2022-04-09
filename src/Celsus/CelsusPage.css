@@ -1,0 +1,41 @@
+.Li--3{
+    background-color: blue;
+    float: left;
+    list-style: none;
+    text-decoration: none;
+    margin: 20px;
+}
+
+.Li--1{
+    float: left;
+    list-style: none;
+    text-decoration: none;
+    background-color: blue;
+    margin: 20px;
+}
+.Li--2{
+    float: left;
+    list-style: none;
+    text-decoration: none;
+    background-color: blue;
+    margin: 20px;
+
+}
+
+.Li--4{
+    float: left;
+    list-style: none;
+    text-decoration: none;
+    background-color: red;
+    margin: 20px;
+}
+
+#div_14 {
+    background-color: rgb(73, 64, 64);
+    display: flex;
+    
+}
+
+.cel{
+    margin-top: 70px;
+}

@@ -1,0 +1,78 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#nav {
+    background-color: rgb(73, 64, 64);
+    width: 100%;
+}
+.shushi{
+  width: 100%;
+  height: 700px;
+  background-image: url(../img/1.jpg);
+  background-size: 600px 800px;
+  background-repeat: no-repeat;
+}
+.glxavor{
+    display: flex;
+}
+.text{
+    width: 1200px;
+    height: 500px;
+    font-size: 15.5px;
+}
+#ul{
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+}
+/* .Li2{
+    text-decoration: none;
+    font-size: 25px;
+    color: white;
+} */
+/* .Li1{
+    color: grey;
+} */
+.xazachecoc{
+    width: 200px;
+    height: 200px;
+    background-image: url(../img/2.jpg);
+    background-size: cover;
+}
+.realakan{
+    width: 200px;
+    height: 200px;
+    background-image: url(../img/3.jpg) ;
+    background-size: cover;
+}
+.mshakuyt{
+    width: 200px;
+    height: 200px;
+    background-image: url(../img/4.jpg) ;
+    background-size: cover;
+
+}
+.masin{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.masin div{
+    margin: 30px;
+}
+
+.real{
+    text-align: center;
+}
+
+a:hover{
+    color: black;
+}
+
+.a1{
+    font-size: 13px;
+}

@@ -1,0 +1,75 @@
+.Li-3{
+    background-color: red;
+    float: left;
+    list-style: none;
+    text-decoration: none;
+    margin: 20px;
+}
+
+.Li-1{
+    float: left;
+    list-style: none;
+    text-decoration: none;
+    background-color: blue;
+    margin: 20px;
+}
+.Li-2{
+    float: left;
+    list-style: none;
+    text-decoration: none;
+    background-color: blue;
+    margin: 20px;
+
+}
+
+.Li-4{
+    float: left;
+    list-style: none;
+    text-decoration: none;
+    background-color: blue;
+    margin: 20px;
+}
+
+#div_3 {
+    background-color: rgb(73, 64, 64);
+    display: flex;
+    
+}
+.div_co{
+    border: 1px solid;
+    width: 400px;
+    height: 500px;
+    margin-left: 440px;
+    text-align: center;
+}
+
+.ip{
+    width: 300px;
+    height: 35px;
+    margin-top: 40px;
+}
+
+.ip1{
+    width: 300px;
+    height: 35px;
+    margin-top: 40px;
+
+}
+
+.ip2{
+    width: 300px;
+    height: 35px;
+    margin-top: 40px;
+}
+
+.ip3{
+    width: 300px;
+    height: 35px;
+    margin-top: 40px;
+}
+
+.but{
+    margin-top: 50px;
+    width: 100px;
+    height: 30px;
+}
