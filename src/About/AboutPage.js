@@ -3,7 +3,6 @@ import './About.css'
 import Menu from './AbotPageMenu'
 import { useDispatch, useSelector } from 'react-redux'
 import { setAboutLoading1 } from '../redux/about/about.action'
-import { setAboutLoading } from '../redux/about/about.action'
 
 
 export default function AboutPage() {
